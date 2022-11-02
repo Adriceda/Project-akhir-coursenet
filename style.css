@@ -1,0 +1,30 @@
+/*  */
+.section-menu
+{
+    background-color: red;
+}
+
+.section-menu .navbar-top
+{
+    background-color: lightblue;
+}
+ 
+
+.section-menu .navabr-expand.lg .navbar-nav .nac-link
+{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+
+
+/*  */
+
+.home-slider .img-slider{
+    width: 100vw;
+    height: 90vh;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center center !important;
+    /* background: url(https://images.unsplash.com/photo-1665830025594-f850be11f929?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80) !important; */
+}
