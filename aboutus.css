@@ -14,7 +14,24 @@
 }
 
 
+.header1{
+    border-bottom: 5px double black;
+    color: burlywood;
+}
+
+.header2{
+    border-bottom: 5px double black;
+    color: burlywood;
+    text-align: right;
+}
+
 .section-text{
     text-align: justify;
+}
+
+
+
+.sectio-ads{
+    padding-bottom: 80px;
 }
 
