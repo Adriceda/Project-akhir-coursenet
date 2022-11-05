@@ -1,4 +1,4 @@
-/* 1 */
+/* navbar */
 .navbar
 {
     background-color: white;
@@ -27,9 +27,8 @@
 
 
 
-
-/* 2 */
-.home-slider{
+/* padding */
+.padding{
     padding-top: 15px;
     background-color: #f9f9f9;
 }
@@ -37,40 +36,7 @@
 
 
 
-
-/* 3 */
-.home-slider .img-slider{
-    width: 100vw;
-    height: 90vh;
-    background-repeat: no-repeat !important;
-    background-size: cover !important;
-    background-position: center center !important;
-    /* background: url(https://images.unsplash.com/photo-1665830025594-f850be11f929?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80) !important; */
-}
-
-
-
-/* 4 */
-
-.sectio-ads{
-    margin-top: 80px;
-    border-bottom: 1px solid #dedede;
-    padding-bottom: 80px;
-}
-
-.sectio-ads-last{
-    margin-top: 80px;
-    padding-bottom: 80px;
-}
-
-.sectio-ads .ads-text{
-    text-align: center;
-    color:#dedede;
-    margin-top: 40px;
-}
-
-
-/* 5 */
+/* footer */
 
 .footer{
     background-color: rgb(241, 235, 235);
@@ -94,3 +60,9 @@
     text-align: center;
     color: rgb(108, 108, 108);
 }
+
+
+
+
+
+
