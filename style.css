@@ -1,4 +1,4 @@
-/*  */
+/* 1 */
 .navbar
 {
     background-color: white;
@@ -23,14 +23,22 @@
 
 .nav-link{
     color: black;
-
-    /* padding-left: 300px; */
-    /* text-align: right; */
 }
 
 
-/*  */
 
+
+/* 2 */
+.home-slider{
+    padding-top: 15px;
+    background-color: #f9f9f9;
+}
+
+
+
+
+
+/* 3 */
 .home-slider .img-slider{
     width: 100vw;
     height: 90vh;
@@ -41,9 +49,17 @@
 }
 
 
-/* .sectio-ads{
+
+/* 4 */
+
+.sectio-ads{
     margin-top: 80px;
     border-bottom: 1px solid #dedede;
+    padding-bottom: 80px;
+}
+
+.sectio-ads-last{
+    margin-top: 80px;
     padding-bottom: 80px;
 }
 
@@ -51,5 +67,30 @@
     text-align: center;
     color:#dedede;
     margin-top: 40px;
-} */
+}
 
+
+/* 5 */
+
+.footer{
+    background-color: rgb(241, 235, 235);
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.footer-icon{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 60px;
+}
+
+.icon{
+    width: 20px;
+    height: 20px;
+    padding-right: 70px;
+}
+
+.footer-text{
+    text-align: center;
+    color: rgb(108, 108, 108);
+}
