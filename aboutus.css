@@ -30,8 +30,13 @@
 }
 
 
-
 .sectio-ads{
     padding-bottom: 80px;
+}
+
+
+.img{
+    border-radius: 100px;
+    height: 400px;
 }
 
