@@ -1,5 +1,26 @@
+.coffee-title{
+    font-family: Baskerville;
+    text-align: center;
+    color: slategrey;
+    font-size: 400%;
+    padding-bottom: 10px;
+    border-bottom: 3px double black;
+}
+
+
+.img{
+    padding-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
 .section-text{
     text-align: justify;
+    border-style: outset;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 
