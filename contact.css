@@ -1,0 +1,55 @@
+/* Location */
+.section-text{
+    margin-left: 50px;
+}
+
+
+.img{
+    margin-top: 40px;
+    margin-left: 30px;
+  }
+
+
+/* Form */
+.sp-container-form{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(174, 152, 174);
+}
+
+
+.form-header{
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: Rockwell;
+    color: bisque;
+}
+
+
+.form{
+    padding-bottom: 10px;
+}
+
+
+.button{
+    display: flex;  
+    justify-content: center;  
+    align-items: center;  
+}
+
+.btn{
+    background-color: darkblue;
+    color: antiquewhite;
+    width: 40%;
+}
+
+
+
+
+/*  */
+/*  */
+/* .form-center {
+    display:flex;
+    justify-content: center;
+  } */
+
