@@ -5,17 +5,17 @@
 }
 
 .navbar-brand img{
-    width: 300px;
-    height: 60px;
+    width: 260px;
+    height: 50px;
 }
 
-/* .brand-container{
-    padding-right: 100px;
-} */
+.brand-container{
+    padding-right: 80px;
+}
 
 .nav-item {
-    padding-right: 50px;
-    padding-left: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
     border-left: 1px solid #dedede;
     border-right: 1px solid #dedede;
 
